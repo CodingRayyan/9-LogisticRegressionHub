@@ -14,10 +14,12 @@ In this repository, I've covered the following topics to guide you.
 * [Original Website](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 
 ## 2) Sigmoid Function
-Detailed explanation and implementation of the Sigmoid Function used in Logistic Regression.  
+* Detailed explanation and implementation of the Sigmoid Function used in Logistic Regression.  
+* Explore More: https://www.engati.com/glossary/sigmoid-function
 
 ## 3) Decision Boundary
-* Understanding and visualization of the Decision Boundary in Logistic Regression.  
+* Understanding and visualization of the Decision Boundary in Logistic Regression.
+* Explore More: https://soulpageit.com/ai-glossary/decision-boundary-explained/
 
 ## 4) Titanic Dataset Introduction
 * Introduction to the Titanic dataset and its relevance for Logistic Regression.  
@@ -38,7 +40,8 @@ Detailed explanation and implementation of the Sigmoid Function used in Logistic
 * [Original Website](https://scikit-learn.org/stable/modules/impute.html#imputation)
 
 ### 8) Embark Town Imputation
-* Methods for handling missing embark town values.  
+* Methods for handling missing embark town values.
+* Explore More: https://www.baeldung.com/cs/logistic-regression-missing-data
 
 ## 9) Data Types Correction and Mapping
 * Correction of data types and mapping of categorical variables.  
@@ -63,7 +66,8 @@ Detailed explanation and implementation of the Sigmoid Function used in Logistic
 * [Original Website](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 ### 14) Accuracy, F1-Score, Precision, Recall, AUC-ROC Curve Part 2 & Part 3
-* Further exploration and detailed analysis of evaluation metrics.  
+* Further exploration and detailed analysis of evaluation metrics.
+* Explore More: https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
 ---
 
